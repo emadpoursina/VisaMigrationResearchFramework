@@ -112,6 +112,128 @@
   * Runway (months):  
   * Worst-case plan:  
   * Exit plan:  
+
+## Banking & Money Transfer System
+
+🏦 Account Opening (Local Banking)  
+Can foreigners open a bank account? (Yes/No):  
+
+Account Types Available:  
+- Personal  
+- Business  
+- Freelancer / Self-employed  
+
+Requirements:  
+- Passport  
+- Residency Permit (Yes/No)  
+- Address Proof  
+- Local Phone Number  
+- Tax Number  
+
+Time to Open:  
+Online Option: (Yes/No)  
+
+Popular Banks:  
+
+
+🌍 International / Digital Banking Options  
+Available Services:  
+- Wise  
+- Payoneer  
+- Revolut  
+- Local fintech apps  
+
+Supported in this country? (Yes/No):  
+
+Can receive international payments?:  
+Can hold USD/EUR?:  
+
+Limitations:  
+
+💸 Receiving Money  
+Main income method:  
+- Freelance platforms  
+- Crypto  
+- Direct client transfer  
+
+Best way to receive money here:  
+
+Fees:  
+Speed:  
+Risks:  
+
+🔄 Sending / Moving Money  
+Can send money internationally? (Yes/No):  
+
+Methods:  
+- Bank transfer (SWIFT)  
+- Wise  
+- Crypto  
+- Cash  
+
+Fees:  
+Limits:  
+Restrictions:  
+
+🪙 Crypto Situation (Important for you)  
+Crypto legal status:  
+
+Can convert crypto to cash? (Yes/No):  
+
+Local exchanges:  
+
+Risks:  
+- Account blocking?  
+- Regulations?  
+
+Best strategy:  
+
+💳 Cards & Payments  
+Can you get a debit card?:  
+Can you get a credit card?:  
+
+International payments work?:  
+
+POS / Cash usage ratio:  
+
+💰 Taxes & Financial Reporting  
+Do you need to declare foreign income?:  
+
+Tax rate:  
+
+Freelancer friendly?:  
+
+Risk of penalties:  
+
+⚠️ Financial Risks & Restrictions  
+- Sanctions?  
+- Currency instability?  
+- Withdrawal limits?  
+- Banking reliability?  
+
+⭐ Best Setup Strategy (IMPORTANT)  
+
+👉 This is where you decide your money system  
+
+Primary Account:  
+Backup Account:  
+Transfer Method:  
+Emergency Plan:  
+
+Example:  
+- Wise + Local Bank + Crypto backup  
+
+⭐ Best Setup Strategy (IMPORTANT)  
+
+👉 This is where you decide your money system  
+
+Primary Account:  
+Backup Account:  
+Transfer Method:  
+Emergency Plan:  
+
+Example:  
+- Wise + Local Bank + Crypto backup  
 * Notes / Insights
 
 ## How to Use This (Your Workflow)
