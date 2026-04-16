@@ -1,2 +1,17 @@
-# personol info
-personal
+# Personal info
+personal/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
