@@ -1,16 +1,3 @@
-# **ارمنستان**
-
-## Visa
-
-* European University of Armenia (EUA) Language courses  
-  * 5 \- 12 month  
-* Individual Entrepreneur (IE)  
-* Job offer  
-* Register a company  
-* Tourist visa  
-  * 90/180  
-  * Exit/Enter is possible
-
 # **ترکیه**
 
 ## Visa
