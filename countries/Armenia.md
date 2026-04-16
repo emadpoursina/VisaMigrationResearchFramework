@@ -26,6 +26,74 @@
 
 ## Deep Dive Per Visa Type
 
+* Business / Company Registration (Residency via Company)  
+  * Basic Info  
+    * Duration: Usually aligned with the residency permit validity (varies by case).  
+    * Extendable: Yes (renewals depend on compliance).  
+    * Leads to Residency: Yes  
+    * Leads to Passport: Not directly (separate long-term path).  
+    * Processing Time: ~1 day (company registration) + up to ~1 week waiting (social number) + residency processing time (varies).  
+    * Official Website:  
+  * Requirements  
+    * Minimum Income: Not strictly required upfront; ongoing tax depends on your declared salary.  
+    * Savings Required:  
+    * Job Offer Needed: No  
+    * Education Required: No  
+    * Language Requirement: No  
+    * Age Limits:  
+    * Health Insurance:  
+    * Background Check:  
+  * Documents Needed  
+    * Passport  
+    * 5 copies of the passport translation  
+    * Address for residency + company registration  
+  * Process  
+    * Initial phase  
+      * Register the company: **$160** (~1 day)  
+      * Get social number: **Free** (long waiting/list; can take up to ~1 week)  
+      * Apply for residency: **$280** government fee  
+      * Agency fee: **$160**  
+    * Monthly phase  
+      * Taxes: depends on your salary as a company employee (example estimate: **~$80/month**)  
+      * Accounting service: **$134/month**  
+  * Costs  
+    * Government fee (residency): **$280**  
+    * Company registration: **$160**  
+    * Agency fee: **$160**  
+    * Ongoing: **~$80/month** taxes (example) + **$134/month** accounting  
+  * Risks / Challenges  
+    * Translation accuracy: Passport translation is tricky—be careful with **name transliteration**; ask the translator to match your preferred spelling exactly.  
+    * Accountant needed: You’ll need an accountant; the agency said they can provide this as a monthly service.  
+    * Address requirement: You need an address for both residency and company (they can register one for you, but renting a house is usually better).  
+    * Banking note: After residency you can open a bank account; reported limitation is **no AMD (dram) transactions** in some setups, but it can still work for multinational transactions.  
+  * Reality Check  
+    * How realistic is this for me? (1–10)  
+    * Why: No hard-to-get documents; main friction is admin waiting + translation precision + ongoing compliance (accounting/taxes).  
+
+* Personal Entrepreneurship (PE)  
+  * Basic Info  
+    * Duration: Usually aligned with the residency permit validity (varies by case).  
+    * Extendable: Yes (renewals depend on compliance).  
+    * Leads to Residency: Yes  
+    * Leads to Passport: Not directly (separate long-term path).  
+    * Processing Time:  
+    * Official Website:  
+  * Requirements  
+    * Health Certificate: **Required** (per agency guidance)  
+  * Documents Needed  
+    * Passport  
+    * Health certificate  
+    * More paperwork vs company registration  
+  * Costs  
+    * Fees: Higher (per agency guidance)  
+    * Tax: A little lower (per agency guidance)  
+  * Risks / Challenges  
+    * More paperwork compared to registering a company  
+    * Higher chance of rejection (per agency guidance)  
+  * Reality Check  
+    * How realistic is this for me? (1–10)  
+    * Why: Not the easiest path unless you specifically need PE and can handle paperwork + higher rejection risk.  
+
 * Visa Name  
   * Basic Info  
     * Duration:  
@@ -134,6 +202,11 @@ Time to Open:
 Online Option: (Yes/No)  
 
 Popular Banks:  
+
+- Melat Bank  
+  - Notes: After getting residency you should be able to open an account.  
+  - Limitation (reported): You may not be able to do AMD (dram) transactions in some setups, but it can still work for multinational transactions.  
+  - Rental/office costs (for address / paperwork): rent terms can start from **6 months**; example rent **~$800/month**; renting an office **~$1000/month**.  
 
 
 🌍 International / Digital Banking Options  
@@ -244,4 +317,3 @@ Example:
   * Score them honestly  
   * Choose ONE main path  
   * Move to execution
-
